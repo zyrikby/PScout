@@ -1,0 +1,15 @@
+Number of API mappings: 24588
+Number of published API mappings: 2135
+Number of third party permissions: 79
+Number of permissions in all mappings: 60
+Number of permissions in published mappings: 53
+
+Number of permissions only in all mappings: 7
+- excluding content provider and intent permissions
+  android.permission.ACCESS_NETWORK_STATE
+  android.permission.CHANGE_NETWORK_STATE
+  android.permission.CLEAR_APP_CACHE
+  android.permission.EXPAND_STATUS_BAR
+  android.permission.FLASHLIGHT
+  android.permission.GET_PACKAGE_SIZE
+  android.permission.RECEIVE_WAP_PUSH
